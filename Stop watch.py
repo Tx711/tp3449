@@ -10,9 +10,9 @@ millisec = sec = min_ = 00
 
 def Start():
     global time, timer, millisec, sec, min_
-    millisec += 1
+    millisec += 20
     if millisec == 100:
-        millisec, sec = 0, Sectl
+        millisec, sec = 0, sec+1
     if sec == 60:
         sec, min_ = 0, min_+1
     timer.config(text=f'{min_}:{sec}:{millisec}' )
