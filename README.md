@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**tp3449/tp3449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on becoming a SDE...
 - 🌱 I’m currently learning Web Dev/PythonBackend
 - 👯 I’m looking to collaborate on Front-End Development...
